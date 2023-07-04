@@ -1,0 +1,112 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: red;
+  
+  }
+  
+  .dsssuperfitname-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .dsssuperfitname {
+    display: flex;
+    align-items: center;
+  }
+  
+  .dsssuperfitname p {
+    margin: 0;
+    padding: 10px;
+    color: white;
+  }
+  
+  .dsssuperfitname a {
+    display: block;
+    margin-right: 10px;
+  }
+.cardtotal-container
+{
+    background-color: #222374;
+    
+}
+.cardtotal {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: whites;
+}
+h2 {
+    padding-left: 230px;
+    color: red;
+}
+
+.card {
+    width: 800px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.card-text {
+    font-size: 16px;
+    color: #000000;
+    text-align: left;
+}
+
+.JiuJitsu {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.card-JiuJitsu {
+    width: 800px;
+    padding: 20px;
+    background-color: #222374;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.JiuJitsu-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.JiuJitsu-text {
+    font-size: 16px;
+    color: #ffffff;
+    text-align: left;
+}
+.footer {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    margin-top: 20px;
+   
+}
+.information-container {
+align-items: center;
+
+}
